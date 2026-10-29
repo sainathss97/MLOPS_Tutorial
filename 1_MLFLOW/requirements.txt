@@ -1,0 +1,6 @@
+mlflow==2.16.2
+ipynb
+scikit-learn
+pandas
+numpy
+
